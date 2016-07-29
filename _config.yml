@@ -1,4 +1,3 @@
-layout_spectrum: 0.8479840292129666
 typography_spectrum: 0.1401652933564037
 color:
   brandStrength: 0.17345945560373366
@@ -11,5 +10,7 @@ color:
     - '#3B407C'
     - '#547AB1'
     - '#CEAFC0'
+layout_spectrum: 0.8479840292129666
 name: Keeyan On The Grid
 title: Ethan Keeyan Ravanshid.
+description: LIVE FOR KNOWLEDGE.
