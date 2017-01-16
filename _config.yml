@@ -24,6 +24,9 @@ navigation:
   - name: Kworld Standard (my firm)
     url: 'http://kworldstandard.com'
     type: external
+  - name: Go Tikki (my travel marketing co.)
+    url: 'http://skitikki.com'
+    type: external
 title: Keeyan Ravanshid
 content: []
 description: Entrepreneur. Author. Consultant. Living for knowledge.
