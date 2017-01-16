@@ -20,6 +20,10 @@ author:
   url: 'http://keeyanravanshid.com'
 name: Keeyan Ravanshid
 url: 'http://keeyanravanshid.com'
+navigation:
+  - name: Kworld Standard (my firm)
+    url: 'http://kworldstandard.com'
+    type: external
 title: Keeyan Ravanshid
 content: []
 description: Entrepreneur. Author. Consultant. Living for knowledge.
