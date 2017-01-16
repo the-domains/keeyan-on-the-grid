@@ -10,7 +10,16 @@ color:
     - '#3B407C'
     - '#547AB1'
     - '#CEAFC0'
+github: true
 layout_spectrum: 0.8479840292129666
+analytics:
+  google: UA-90440402-1
+author:
+  name: Keeyan Ravanshid
+  email: keeyan@kworldstandard.com
+  url: 'http://keeyanravanshid.com'
 name: Keeyan On The Grid
+url: 'http://keeyanravanshid.com'
 title: Ethan Keeyan Ravanshid.
+content: []
 description: LIVE FOR KNOWLEDGE.
