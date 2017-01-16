@@ -23,3 +23,7 @@ url: 'http://keeyanravanshid.com'
 title: Keeyan Ravanshid
 content: []
 description: Entrepreneur. Author. Consultant. Living for knowledge.
+purpose:
+  - type: contact
+    url: 'mailto:info@kworldstandard.com'
+    label: Contact Me
